@@ -6,7 +6,6 @@ on:
       - main
       - no-docker
     paths-ignore:
-      - ".github/**"
       - "**/*.md"
       - "**/*.gitignore"
       - "**/*.gitattributes"
